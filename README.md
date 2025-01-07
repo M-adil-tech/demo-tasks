@@ -1,3 +1,12 @@
+
+#single project contains both of the task with two different routes 
+
+#for the task 1 for mock data genertion i have used current timestamp and bind it real time using socket 
+#for 2nd task made a simple feed where user can create post and see mock users post 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
